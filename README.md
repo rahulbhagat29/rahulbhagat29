@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://rahulbhagat29.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Data+Analyst+%7C+Credit+Risk+%26+Financial+Analytics;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Excel;Turning+messy+data+into+decisions" alt=" Data Analyst | Credit Risk & Financial Analytics " />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Data+Analyst+%7C+Credit+Risk+%26+Financial+Analytics;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Excel;Turning+messy+data+into+decisions" alt="Data Analyst| Credit Risk & Financial Analytics" />
   </a>
 </p>
 
