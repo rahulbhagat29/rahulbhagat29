@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://rahulbhagat29.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Data+Analyst+%7C+Credit+Risk+%26+Financial+Analytics;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Excel;Turning+messy+data+into+decisions" alt="Data Analyst| Credit Risk & Financial Analytics" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Credit+Risk+%26+Financial+Analytics;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Excel;Turning+messy+data+into+decisions" alt="Data Analyst | Credit Risk & Financial Analytics" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rahulbhagat29"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://rahulbhagat29.github.io/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://rahulbhagat29.github.io/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:rahulbhagat2509@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/📍_Mumbai,_India-1F2937?style=for-the-badge" alt="Mumbai, India" />
 </p>
