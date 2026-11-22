@@ -26,7 +26,7 @@
 
 ## ⚡ Impact at Work
 
-- ⏱️ Built a **Python (Pandas) pipeline** that cut trade-data cleaning from **3–4 days to a single session**
+- ⏱️ Built a **Python (Pandas) pipeline** that cut trade-data cleaning from **2-3 days to a 3-4 hours**
 - 🧾 Designed it **audit-first**: untouched raw backup + row-level change log, so every edit can be traced
 - 🏷️ Automated de-duplication, name standardisation and product classification, so totals roll up correctly
 
